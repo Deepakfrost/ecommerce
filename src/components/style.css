@@ -1,0 +1,40 @@
+.cardbody {
+    float: left;
+    align-items: flex-start;
+    border-radius: 30%;
+
+}
+
+.card-style {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+
+}
+
+.sec_card {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+}
+
+.tems_img {
+    float: left;
+    width: 6%;
+}
+
+.billing {
+    display: flex;
+}
+
+.left {
+    padding: 3rem ;
+    margin: 4rem 2rem;
+    width: 50%;
+
+}
+
+.right {
+    padding: 3rem;
+    margin: 4rem 4rem ;
+    width: 50%;
+
+}
